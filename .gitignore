@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .env
+.mcp.json
+*.png
+README copy.md
+.gitignore copy
